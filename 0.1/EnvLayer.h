@@ -4,9 +4,9 @@
 #include <string>
 #include <vector>
 #include "gdal_priv.h"
-#include "ogrsf_frmts.h" //for ogr
-#include "gdal_alg.h"	 //for GDALPolygonize
-#include "cpl_conv.h"	 //for CPLMalloc() 
+#include "ogrsf_frmts.h" // for ogr
+#include "gdal_alg.h"	 // for GDALPolygonize
+#include "cpl_conv.h"	 // for CPLMalloc() 
 #include "DataTypeEnum.h"
 
 using namespace std;
